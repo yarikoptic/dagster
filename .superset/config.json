@@ -1,6 +1,0 @@
-{
-  "setup": [
-    "uv venv\nsource .venv/bin/activate\nmake dev_install"
-  ],
-  "teardown": []
-}
